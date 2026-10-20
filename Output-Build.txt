@@ -1,0 +1,18 @@
+﻿Build started at 12:54...
+1>------ Build started: Project: work3, Configuration: Debug x64 ------
+1>  tut3.cpp
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(31,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(31,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'int *'
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(32,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(32,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'int *'
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(33,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(33,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'int *'
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(34,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(34,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'int *'
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(35,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(35,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'int *'
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(36,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+1>C:\Users\st20355118\source\repos\workshops\work3\tut3.cpp(36,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'int *'
+1>  work3.vcxproj -> C:\Users\st20355118\source\repos\workshops\x64\Debug\work3.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:54 and took 01.505 seconds ==========

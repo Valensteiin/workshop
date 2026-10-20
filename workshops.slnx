@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="work2/work2.vcxproj" />
+  <Project Path="work3/work3.vcxproj" />
+  <Project Path="workshops/workshops.vcxproj" />
+</Solution>
