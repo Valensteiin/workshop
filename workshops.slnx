@@ -3,7 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="work2/work2.vcxproj" />
-  <Project Path="work3/work3.vcxproj" />
-  <Project Path="workshops/workshops.vcxproj" />
+  <Project Path="awesomenator/awesomenator.vcxproj" Id="69b98996-7258-4e06-a4c3-0e8a52b09980" />
+  <Project Path="work2/work2.vcxproj" Id="b6bc9493-20b1-4b47-8abf-ada67f76830a" />
+  <Project Path="work3/work3.vcxproj" Id="cf78ee75-a418-4819-987a-d2cad8ecba7c" />
+  <Project Path="workshop 5/workshop 5.vcxproj" Id="b8f5dacb-6058-46e5-915c-c6568b083d3e" />
+  <Project Path="workshops/workshops.vcxproj" Id="e39fe07b-8011-4fc9-9104-61aff4b2ff44" />
 </Solution>
